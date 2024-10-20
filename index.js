@@ -157,25 +157,25 @@ function showOurProducts() {
         <h2 class="op">Our Products</h2>
         <div id="fresh">
             <h3>Fresh Fruits & Vegetables</h3>
-            <img src="../Images/f4.1.png" alt="mg"><br><br>
+            <img src="./asset/f4.1.png" alt="mg"><br><br>
         </div>
 
         <div id="images">
             <h3>Dairy & Eggs</h3><br>
-            <img src="../Images/f5.png" alt="img">
+            <img src="./asset/f5.png" alt="img">
         </div>
 
         <div id="images">
             <h3>Meats & Seafood</h3>
-            <img src="../Images/f6.png" alt="img">
+            <img src="./asset/f6.png" alt="img">
         </div>
         <div id="images">
             <h3>Bakery Items</h3>
-            <img src="../Images/f7.png" alt="img">
+            <img src="./asset/f7.png" alt="img">
         </div>
         <div id="images">
             <h3>Pantry Staples</h3>
-            <img src="../Images/f8.png" alt="img">
+            <img src="./asset/f8.png" alt="img">
         </div>
 
     </div>

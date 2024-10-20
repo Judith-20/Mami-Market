@@ -3,11 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* body {
+    width: ;
+} */
 /* for the nav bar */
 nav{
     position: fixed;
     background-color: cornsilk;
-    background-image: url(../Images/fruit1.1.png);
+    background-image: url(./asset/fruit1.1.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 25px 15px;
@@ -70,7 +74,7 @@ a:active{
     padding: 2rem;
 }
 .para{
-    background-image: url(../Images/f2.png);
+    background-image: url(./asset/f2.png);
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 5;
@@ -90,7 +94,7 @@ a:active{
 }
 /* About us page */
 .about-content {
-    background-image: url(../Images/fruitsbck.png);
+    background-image: url(./asset/fruitsbck.png);
     background-repeat: no-repeat;
     background-size: 650px;
     background-position: center;
@@ -136,7 +140,7 @@ a:active{
     align-items: start;
 }
 .products-content{
-    background-image: url(../Images/pic.png);
+    background-image: url(./asset/pic.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 120%;
